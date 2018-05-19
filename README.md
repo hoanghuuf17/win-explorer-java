@@ -5,3 +5,8 @@
 #đề 15
 c1: thiết kế giao diện file exploer
 c2: có chức năng mở file
+
+ 
+ link video: https://youtu.be/nlacL56T2jo
+
+*Chọn phụ đề tiếng Việt
